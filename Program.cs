@@ -37,7 +37,7 @@ namespace lghtClasses
             PersonalLib.AddBook(Kokoro);
             PersonalLib.AddBook(TheClown);
 
-
+            
 
 
 
